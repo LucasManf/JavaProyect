@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nombre": "Roberto",
+    "apellido": "Fernandez",
+    "materia": "Matematica",
+    "alumnosAsignados": []
+  }
+]
